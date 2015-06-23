@@ -1,0 +1,2 @@
+使用前需要先启动zookeeper
+然后再启动kafka
