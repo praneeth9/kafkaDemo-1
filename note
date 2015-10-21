@@ -1,2 +1,4 @@
 使用前需要先启动zookeeper
 然后再启动kafka
+ bin/zookeeper-server-start.sh config/zookeeper.properties
+ bin/kafka-server-start.sh config/server.properties
